@@ -2,6 +2,8 @@
 
 The purpose of this project is to implement and congigure my own 3d printer kit 
 
+![3D Printer](https://user-images.githubusercontent.com/98288035/151266963-73e753ae-a19d-4e84-a577-c3e69d4d8b4d.gif)
+
 ## Tasks 
 1. Mechanical components implementation and chasis 
 
@@ -57,3 +59,13 @@ The purpose of this project is to implement and congigure my own 3d printer kit
 
 #define X_BED_SIZE 200                           // set the size of the print bed
 #define Y_BED_SIZE 200
+
+#define EEPROM_SETTINGS                         // uncomment to enable for M500 and M501 commands
+#define SDSUPPORT                               // uncomment to enable sd card
+#define REPRAP_DISCOUNT_SMART_CONTROLLER        // uncomment the lcd command  ( select the command of your lcd there is many lcd options )
+
+```
+
+**Final output** 
+![final](https://user-images.githubusercontent.com/98288035/151265965-7e42d867-b221-4432-a127-4f923c57a708.jpeg)
+
