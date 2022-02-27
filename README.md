@@ -1,6 +1,6 @@
 # 3D-Printer-Kit-Fabrication
 
-The purpose of this project is to implement and congigure my own 3d printer kit 
+The purpose of this project is to implement and configure my own 3d printer kit 
 
 ![3D Printer](https://user-images.githubusercontent.com/98288035/151266963-73e753ae-a19d-4e84-a577-c3e69d4d8b4d.gif)
 
